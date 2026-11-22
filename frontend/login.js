@@ -3,7 +3,6 @@ const message = document.querySelector("#login-message");
 
 form.addEventListener("submit", async (event) => {
   event.preventDefault();
-  let i=0;
   message.textContent = "";
   message.className = "message";
 
