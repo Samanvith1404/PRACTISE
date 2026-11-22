@@ -1,0 +1,5 @@
+Runtime requirements:
+- Node.js 18 or newer
+- No third-party Node.js packages are required
+
+The database schema is a starter reference and is not connected to the demo server.
